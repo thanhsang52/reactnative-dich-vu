@@ -1,0 +1,85 @@
+[
+    {
+        "Ten":"Smart Tivi Cong Samsung 49 inch",
+        "Ma_so":"TIVI_1",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_1.png",
+        "Don_gia":22900000,
+        "Danh_sach_Ban_hang":[
+            {
+                "Ma_so":"PB_1",
+                "Ngay":"2018-10-10",
+                "So_luong":2,
+                "Don_gia":22900000
+            },
+            {
+                "Ma_so":"PB_2",
+                "Ngay":"2018-10-10",
+                "So_luong":1,
+                "Don_gia":22900000
+            }
+        ]
+    },
+    {
+        "Ten":"Internet Tivi Sony 4K 43 inch",
+        "Ma_so":"TIVI_4",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_4.png",
+        "Don_gia":14500000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten":"Internet Tivi Samsung 32 inch",
+        "Ma_so":"TIVI_8",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_8.png",
+        "Don_gia":6890000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten":"Internet Tivi Sony 40 inch",
+        "Ma_so":"TIVI_10",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_10.png",
+        "Don_gia":9990000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten":"Smart Tivi Samsung 40 inch",
+        "Ma_so":"TIVI_11",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_11.png",
+        "Don_gia":8640000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten":"Smart Tivi LED 4K SONY 49 inch",
+        "Ma_so":"TIVI_18",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_18.png",
+        "Don_gia":10420000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten": "Smart Tivi LED 4K SONY 75 Inch",
+        "Ma_so": "TIVI_20",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_20.png",
+        "Don_gia": 7340000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten": "Smart Tivi SONY Ultra HD 75 Inch",
+        "Ma_so": "TIVI_22",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_22.png",
+        "Don_gia": 11480000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten":"Internet Tivi LG 55 Inch",
+        "Ma_so":"TIVI_32",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_32.png",
+        "Don_gia":11480000,
+        "Danh_sach_Ban_hang":[]
+    },
+    {
+        "Ten":"TV Philips",
+        "Ma_so":"TIVI_34",
+        "Hinh":"http://10.0.3.2:8081/images/TIVI_34.png",
+        "Don_gia":10420000,
+        "Danh_sach_Ban_hang":[]
+    }
+]
